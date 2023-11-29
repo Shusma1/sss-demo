@@ -1,0 +1,2 @@
+birds = "parrot"
+sports = "haki"

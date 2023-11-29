@@ -1,0 +1,2 @@
+birds = "peacock"
+sports = "criket"
