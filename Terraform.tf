@@ -6,10 +6,6 @@ resource "local_file" "movie" {
   filename = "film"
   content  = "RRR"
 }
-resource "local_file" "foo" {
-  filename = var.games
-  content  = var.content
-}
 variable "filename" {
   type = string
 }

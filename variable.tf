@@ -1,4 +1,5 @@
-variable "ASE"
-type = string
-content = "accenture"
+variable "ASE" {
+  type = string
+  default = "test"
+}
 
